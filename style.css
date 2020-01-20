@@ -1,0 +1,36 @@
+head{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-family: 'Roboto', sans-serif;
+
+}
+#nav-bar
+{
+  position: sticky;  
+  top: 0;
+  z-index: 10; ;
+
+}
+.navbar
+{
+    background-color: white;
+    padding: 0 ;
+}
+.navbar-brand img
+{
+    height: 40px;
+    padding-left: 20px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a
+    {
+color: #fff ;
+font-weight: 600;
+
+    }
+
