@@ -60,3 +60,28 @@ font-weight: 600;
         z-index: 227;
         margin-bottom: 50px;
     }
+
+    
+    .fa-icon{
+        display: inline-flex !important;
+        justify-content: center;
+        align-items: center;
+        font-size: 40px;
+        width: 95px;
+        height: 100px;
+        flex-direction: row;
+        background-color: #3ec6ff;
+        color: white;
+        border-radius: 50%;
+    }
+    .col-lg-3 h2{
+        color: rgb(134, 134, 134);
+    }
+    .col-lg-3 p{
+        color: rgb(134, 134, 134);
+    }
+
+    .centerCol{
+        text-align: center;
+
+    }
